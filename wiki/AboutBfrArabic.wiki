@@ -1,0 +1,40 @@
+#summary Arabic language tools for Biferno Web programming Language.
+#labels Featured
+
+= Introduction =
+
+BfrArabic is a set of arabic language tools for the Biferno Web programming Language.
+
+
+= Details =
+
+Features/tools:
+	* Arabic text auto summarization
+	* Advanced Arabic search (stem based)
+	* Render Arabic text (PDF, GD, SWF)
+	* Present dates in Arabic or Hijri
+	* Convert Hijri date into Unix timestamp
+	* Parse Arabic textual datetime into timestamp
+	* Transliterate English words in Arabic
+	* Transliterate Arabic words in English
+	* Spell numbers in Arabic idiom
+	* Phonetically alike Arabic words
+	* Arabic character set converter
+	* Arabic character set auto detection
+	* Identify Arabic in multi language documents
+	* Identify names & places in Arabic text
+	* Guess gender of Arabic names
+	* Convert keyboard language programmatically
+	* Calculate the time of Muslim prayer
+	* Compress string using Huffman-like coding
+	* Standardize Arabic text
+	* Arabic stemmer
+	* Arabic Cities List
+	* Virtual Arabic Keyboard
+	* Informations about Arabic countries
+	* Arabic text normalisation
+
+
+These are a refactored Biferno port of the ArPHP tools by Khaled Al-Shamaa ( http://www.ar-php.org ).
+
+Biferno (http://www.tabasoft.it/biferno/) is an awesome but yet little known programming language for the web.
